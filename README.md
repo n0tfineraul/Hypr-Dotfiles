@@ -1,0 +1,2 @@
+# Hypr-Dotfiles
+Hyprland configs
